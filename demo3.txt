@@ -1,1 +1,1 @@
-merge conflict
+example for merge conflict
